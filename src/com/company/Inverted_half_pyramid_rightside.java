@@ -10,7 +10,7 @@ public class Inverted_half_pyramid_rightside {
        // outer loop
         for(int i=1;i<=n;i++)
          {
-//             inner loop -> spcae print
+//             inner loop -> space print
             for(int j=1;j<=n-i;j++){
                 System.out.print(" ");
             }
