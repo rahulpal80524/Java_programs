@@ -19,8 +19,12 @@ public class Strings {
             System.out.println(Fullname.charAt(i));
         }
 
-
-
+//starting and end space remove
+       String nonTrimmedString = "     rahul pal   ";
+        String TrimmedString =nonTrimmedString.trim();
+        System.out.println(TrimmedString);
+        System.out.println(nonTrimmedString.trim());
+        System.out.println(TrimmedString.substring(2));
 
     }
 }
