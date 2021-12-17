@@ -26,5 +26,9 @@ public class Strings {
         System.out.println(nonTrimmedString.trim());
         System.out.println(TrimmedString.substring(2));
 
+        String s="SOS";
+
+
+
     }
 }
