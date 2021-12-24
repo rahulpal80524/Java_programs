@@ -8,7 +8,7 @@ public class Demo_programs {
 
         String s = bufferedReader.readLine();
 
-        int result = Result.camelcase(s);
+        int result = Result1.camelcase(s);
 
 //        bufferedWriter.write(String.valueOf(result));
 //        bufferedWriter.newLine();
@@ -19,7 +19,7 @@ public class Demo_programs {
 
     }
 
-class Result {
+class Result1 {
 
     /*
      * Complete the 'camelcase' function below.
